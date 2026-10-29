@@ -1,4 +1,5 @@
 # ESP32 AirChat (Offline Captive Portal)
+(demo.png)
 
 A completely self-contained, local messaging system running on an ESP32 microcontroller. When users connect to the "AirChat" Wi-Fi network, a captive portal automatically opens on their device, allowing them to send and receive messages in real-time. No internet, no apps, and no external servers required.
 
